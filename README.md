@@ -20,7 +20,7 @@ I am an AI security leader and AI safety advocate. My background includes overse
 
 ## 🚀 Key Projects & Roles
 * **AIRTA Systems ([@airtasystems](https://github.com/airtasystems)):** Co-Founder. Providing proactive AI safety testing, offensive LLM and agentic security testing, and continuous post-market monitoring. Home to open-source tools including **`llm-hunter`** and **`dvaia`** (Damn Vulnerable AI Application).
-* **Genbounty (Co-Founder):** Building an AI safety bug bounty platform that connects AI whitehats with companies to surface vulnerabilities in LLMs, agents, RAG systems, prompts, and MCP servers.
+* **Genbounty (Co-Founder):** [genbounty.com](https://genbounty.com) Building an AI safety bug bounty platform that connects AI whitehats with companies to surface vulnerabilities in LLMs, agents, RAG systems, prompts, and MCP servers.
 * **Infosec (Instructor):** Developing structured learning paths for CompTIA SecAI+, LLM Security, and AI Red Teaming methodologies.
 
 ---
@@ -50,5 +50,5 @@ I am an AI security leader and AI safety advocate. My background includes overse
 ## 📫 Connect
 * **GitHub Organization:** [github.com/airtasystems](https://github.com/airtasystems)
 * **LinkedIn:** [linkedin.com/in/robertmorel](https://www.linkedin.com/in/robertmorel)
-* **Websites:** [genbounty.com](https://genbounty.com) | [pointlessai.com](http://pointlessai.com)
-* **Email:** bob@genbounty.com | robertchristophermorel@gmail.com
+* **Websites:** [genbounty.com](https://genbounty.com)
+* **Email:** bob@genbounty.com
